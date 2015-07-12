@@ -16,7 +16,7 @@ namespace WebPhoHienTravel.App_Code
 {
     public class _Logo
     {
-//ac
+//acdef
         private string masterPath;
         private WebPhoHienTravel.App_Code.DATACONNECT data;
         public _Logo(string masterPath)
