@@ -8,11 +8,12 @@ namespace MvcMusicStore.Controllers
 {
     public class HomeController : Controller
     {
+//adnkajdnkaj
         public ActionResult Index()
         {
             return View();
         }
-
+//adnajkad
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
